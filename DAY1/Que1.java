@@ -1,4 +1,4 @@
-//Question 1: Hello World
+//Question 1: Calculate even or odd number
 
 
 public class Que1 {
